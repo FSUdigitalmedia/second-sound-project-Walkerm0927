@@ -1,4 +1,4 @@
-# VCV Rack Project Template
+# 2nd Sound Assignment
 
 ## How to Submit This Assignment
 
@@ -18,7 +18,7 @@ Then, edit this README.md file:
 
 ## Screenshot
 
-![Screenshot of VCV Rack Patch](screenshot.png)
+![Screenshot of VCV Rack Patch](screenshot2.png)
 
 ## Link to Sound File
 
